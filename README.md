@@ -15,6 +15,14 @@ Sou desenvolvedor **full stack** com foco em **Inteligência Artificial**, **aut
 
 ## 🧪 Meus projetos
 
+### 📦 Projetos Open Source
+
+[`langchain-auth-tools`](https://github.com/guilherme-iani/langchain-auth-tools)  
+🔐 Biblioteca de autenticação para projetos com LLMs e LangChain.  
+→ Permite adicionar controle de acesso e identidade em workflows baseados em IA.  
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript)
+
+
 ### 🔒 Projetos privados
 
 - **Minha Felicidade**  
@@ -24,16 +32,6 @@ Sou desenvolvedor **full stack** com foco em **Inteligência Artificial**, **aut
 - **Influplace**  
   Plataforma de monitoramento e inteligência de influenciadores digitais.  
   → Análise de contratos, comportamento em redes sociais e automações para agências e marcas.
-
----
-
-### 📦 Projetos Open Source
-
-[`langchain-auth-tools`](https://github.com/guilherme-iani/langchain-auth-tools)  
-🔐 Biblioteca de autenticação para projetos com LLMs e LangChain.  
-→ Permite adicionar controle de acesso e identidade em workflows baseados em IA.  
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript)
-
 
 ---
 
