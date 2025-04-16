@@ -17,7 +17,7 @@ Sou desenvolvedor **full stack** com foco em **Inteligência Artificial**, **aut
 
 ### 📦 Projetos Open Source
 
-[`langchain-auth-tools`](https://github.com/guilherme-iani/langchain-auth-tools)  
+[`langchain-auth-tools`](https://github.com/ianig/langchain-auth-tools)  
 🔐 Biblioteca de autenticação para projetos com LLMs e LangChain.  
 → Permite adicionar controle de acesso e identidade em workflows baseados em IA.  
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript)
